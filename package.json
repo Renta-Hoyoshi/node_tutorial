@@ -1,6 +1,6 @@
 {
   "name": "sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node_tutorial",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "type": "git",
     "url": "node_tutorial"
   },
-  "author": "Renta-Hoyoshi",
-  "license": "ISC"
+  "author": "hoyoshirenta",
+  "license": "ISC",
+  "private": false,
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
 }

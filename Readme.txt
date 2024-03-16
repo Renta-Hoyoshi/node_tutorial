@@ -1,0 +1,1 @@
+npm login --auth-type=legacy
